@@ -6,7 +6,7 @@
 <body background="math bg.png">
 <center>
 <h2> <font face="Calibri"> Third Quarter Performance Task- Message of HOPE </font></h2> 
-<h3><font color="white"> "Place of Hope" </font></h3>
+<h3><font face="Calibri"> "Place of Hope" </font></h3>
 <img src="place of hope.png "width="465" height="265" hspace="8"> 
 <a href="https://youtu.be/rHKkJ0LKBVY">
 <br> 
